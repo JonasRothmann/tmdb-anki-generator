@@ -2,6 +2,8 @@
 
 Generate Anki cards from TMDB (The Movie Database) data. This tool creates flashcards for movies with user-chosen actors based on large TMDB datasets.
 
+![anki screenshot](screenshot.png)
+
 ---
 
 ## Setup
